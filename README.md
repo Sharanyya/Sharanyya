@@ -7,7 +7,7 @@ I am Sai Sharanyya Chanda. My main interest lies in Data Science and Machine Lea
 
 - 🔭 I’m currently working as Salesforce Trainee at Prowess Software Services.
 
-- 🌱 I’m currently learning **Salesforce Admin** **Salesforce Development** **Salesforce Integrations** and **Lightning Aura Components**.
+- 🌱 I’m currently learning and working **Salesforce Admin,** **Salesforce Development,** **Salesforce Integrations** and **Lightning Aura Components**.
 
 - 👯 I’m looking to collaborate on any **Data Science** or **Machine Learning** or **Salesforce** project.
 
